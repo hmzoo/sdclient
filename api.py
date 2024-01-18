@@ -70,7 +70,7 @@ n=2
 #     simpleimg2img(img,"1 young woman","uggly",n,seed,20,7,ds)
 #     n=n+1
 for cfg in np.arange(5,10,0.5):
-    simpleimg2img(img,"1 young woman","uggly",n,seed,20,cfg,0.6)
+    simpleimg2img(img,"1 cat","uggly",n,seed,20,cfg,0.6)
     n=n+1
 
 
