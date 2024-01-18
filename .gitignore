@@ -1,5 +1,7 @@
 ori/
 out/
+try/
+com/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
